@@ -7,7 +7,7 @@ Template:       twentyfifteen
 (optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
 @import url('https://fonts.googleapis.com/css2?family=Special+Gothic+Expanded+One&display=swap');
-h1{
+h1.alignwide.wp-block-post-title{
     font-family: "Special Gothic Expanded One", sans-serif;
     color: darkslateblue
   }
