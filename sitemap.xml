@@ -67,6 +67,21 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/bookshelf-model-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/steampunk-animal-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/car-assembly-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
