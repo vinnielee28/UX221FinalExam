@@ -1,0 +1,84 @@
+2025-04-22T20:17:32-04:00 CRITICAL Out of memory (allocated 37748736) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-custom-html.php on line 236
+
+2025-04-22T20:17:32-04:00 CRITICAL Out of memory (allocated 37748736) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-custom-html.php on line 236
+
+2025-04-22T20:17:32-04:00 CRITICAL Out of memory (allocated 33554432) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-custom-html.php on line 236
+
+2025-04-22T20:17:32-04:00 CRITICAL Out of memory (allocated 33554432) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-custom-html.php on line 236
+
+2025-04-22T20:17:33-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:17:33-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:17:34-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-custom-html.php on line 236
+
+2025-04-22T20:17:34-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-custom-html.php on line 236
+
+2025-04-22T20:17:38-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:17:38-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:17:43-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:17:43-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:17:48-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:17:48-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:17:53-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:17:53-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:17:58-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:17:58-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:18:03-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:18:03-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:18:08-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:18:08-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:18:13-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:18:13-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:18:18-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:18:18-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:18:23-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:18:23-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:18:28-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:18:28-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:18:28-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-custom-html.php on line 232
+
+2025-04-22T20:18:28-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-custom-html.php on line 232
+
+2025-04-22T20:18:33-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:18:33-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:18:34-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-custom-html.php on line 236
+
+2025-04-22T20:18:34-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-custom-html.php on line 236
+
+2025-04-22T20:18:34-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-custom-html.php on line 232
+
+2025-04-22T20:18:34-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-custom-html.php on line 232
+
+2025-04-22T20:18:38-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:18:38-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 486
+
+2025-04-22T20:18:40-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 490
+
+2025-04-22T20:18:40-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 490
+
