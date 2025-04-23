@@ -14,4 +14,5 @@ h1.alignwide.wp-block-post-title{
 @import url('https://fonts.googleapis.com/css2?family=National+Park:wght@200..800&display=swap');
 a{
     font-family: "National Park", sans-serif;
+    color: darkslategray;
 }
