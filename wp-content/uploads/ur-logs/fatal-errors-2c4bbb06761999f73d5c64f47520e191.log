@@ -82,3 +82,23 @@
 
 2025-04-22T20:18:40-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 490
 
+2025-04-22T21:02:05-04:00 CRITICAL Out of memory (allocated 37748736) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/functions.php on line 656
+
+2025-04-22T21:02:05-04:00 CRITICAL Out of memory (allocated 37748736) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/functions.php on line 656
+
+2025-04-22T21:02:05-04:00 CRITICAL Out of memory (allocated 33554432) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-custom-html.php on line 236
+
+2025-04-22T21:02:05-04:00 CRITICAL Out of memory (allocated 33554432) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-custom-html.php on line 236
+
+2025-04-22T21:02:08-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-content/plugins/user-registration/includes/class-ur-form-handler.php on line 654
+
+2025-04-22T21:02:08-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-content/plugins/user-registration/includes/class-ur-form-handler.php on line 654
+
+2025-04-22T21:02:09-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 490
+
+2025-04-22T21:02:09-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-includes/widgets/class-wp-widget-text.php on line 490
+
+2025-04-22T21:02:13-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-content/plugins/user-registration/includes/class-ur-form-handler.php on line 654
+
+2025-04-22T21:02:13-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221FinalExam/.wordpress/wp-content/plugins/user-registration/includes/class-ur-form-handler.php on line 654
+
